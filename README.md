@@ -1,7 +1,7 @@
 # alexa-hello-world
 For users in my online course "How to do hello world in Alexa"
 
-<audio src='{audio file location}'/>
+<!--<audio src='{audio file location}'/>
 
 <?xml version="1.0" encoding="UTF-8"?>
 <CORSConfiguration xmlns="http://s3.amazonaws.com/doc/2006-03-01/">
@@ -14,3 +14,4 @@ For users in my online course "How to do hello world in Alexa"
         <AllowedMethod>GET</AllowedMethod>
     </CORSRule>
 </CORSConfiguration>
+-->
